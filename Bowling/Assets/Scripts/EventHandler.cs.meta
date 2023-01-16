@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f819ab032029249f0a95983d4b16c76b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreMult: {fileID: 3680334657016453654, guid: 1fd71b0e2e3eebd4382d61621ebc8570, type: 3}
+  - speedUp: {fileID: 3680334657016453654, guid: 47620626e20c8e04683769a8c2c501a4, type: 3}
+  - getBigger: {fileID: 3680334657016453654, guid: 721b110687a979641a2cf832f160858c, type: 3}
+  - scoreDeMult: {fileID: 3680334657016453654, guid: 7ffeb8635f84454478d4ba0fb8e1550b, type: 3}
+  - speedDown: {fileID: 3680334657016453654, guid: 407018050ef4741479dfdd79ac0d72b5, type: 3}
+  - getSmaller: {fileID: 3680334657016453654, guid: 7f16ed4858f6bf14baaad6d39217a55f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
